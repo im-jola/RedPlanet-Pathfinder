@@ -19,6 +19,19 @@ It dynamically avoids obstacles, prevents backtracking, and stops animating the 
 
 ---
 
+## 🎨 Preview
+
+Here is the simulator in action, showing the autonomous pathfinder dodging hazards:
+
+![Mars Rover Pathfinder Preview](screenshot_61.png)
+![Mars Rover Pathfinder Preview](screenshot_66.png)
+
+* **Grid Size:** 10x10
+* **Obstacles:** 12 randomly scattered boulders.
+* **Frame Rate:** Real-time updates with a 0.2 second delay.
+
+---
+
 ## 🛠️ Installation & Setup
 
 1. **Clone this repository:**
