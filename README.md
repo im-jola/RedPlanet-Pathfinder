@@ -23,5 +23,5 @@ It dynamically avoids obstacles, prevents backtracking, and stops animating the 
 
 1. **Clone this repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/RedPlanet-Pathfinder.git](https://github.com/YOUR_GITHUB_USERNAME/RedPlanet-Pathfinder.git)
+   git clone [https://github.com/im-jola/RedPlanet-Pathfinder.git](https://github.com/im-jola/RedPlanet-Pathfinder.git)
    cd RedPlanet-Pathfinder
