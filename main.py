@@ -91,7 +91,7 @@ def main():
 
         # Only draw a path tile if we haven't reached the target yet!
         if current_position != target_coordinate:
-            matrix[current_position[1], current_position[0]] = 3
+            matrix[current_position[1], current_position[0]] = 1.5
 
         # Instantly update the frame data to show movement in real-time
         im.set_data(matrix) 
